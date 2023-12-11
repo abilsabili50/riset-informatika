@@ -1,6 +1,6 @@
 # Research Topic
 
-### Implementasi MERN Stack dalam Membangun Sistem Administrasi Keuangan Pada Yayasan Raden Patah
+### Implementasi MERN Stack dalam Membangun Sistem Penggajian Pada Yayasan Raden Patah
 
 ## Problem Statement
 
